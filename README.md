@@ -1,14 +1,4 @@
-# Assembly x64 using NASM, GCC e MakeFile -  Syscall -  Sistemas Operacionais
+# asm_x64
+Assembler
 
-### Install
-$ sudo apt install gcc
-$ sudo apt install build-essential nasm
-$ sudo apt install vim
-
-### Build
-$ make
-
-### Run 
-./hello
-
-
+#### Link para o vídeo no canal do YouTube AbrandaoL: https://bit.ly/3fWOZuk
